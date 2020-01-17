@@ -1,5 +1,9 @@
 # Fantasy Golf Pool
 
+### Deployed link
+
+https://golfygolf.herokuapp.com/
+
 ## Project Functionality
 
 This is a full-stack Node.js app that provides a programmatic solution for a group of friends to run a golf pool. The key functionality includes:
@@ -39,7 +43,3 @@ Proper authentication procedures still need to be added, but an existing user wi
 ## Project maintenance and contributions
 
 This is an original app developed by Ross McLane, Alexis Tanner, Jonathan Johnson and Graeme Stewart for a project as part of Georgia Tech's Full Stack Coding Boot Camp (Oct 2019 to Jan 2020).
-
-## Deployed link
-
-https://whispering-hamlet-37821.herokuapp.com/
